@@ -1,7 +1,5 @@
 # password-generator-gui
 
-# Project Overview
-
 **Project Title:** Password Generator GUI
 
 **Language & Tools:** Python 3, Tkinter
