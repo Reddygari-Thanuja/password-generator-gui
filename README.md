@@ -1,7 +1,4 @@
 # password-generator-gui
-Here is a polished **`README.md`** tailored to the project shown in your current window ([`Password_Generator_gui.py`](https://github.com/Reddygari-Thanuja/password-generator-gui/blob/main/Password_Generator_gui.py)).
-
----
 
 # Project Overview
 
